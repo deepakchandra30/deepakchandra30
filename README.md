@@ -2,7 +2,7 @@
 
 🎓 BSc (Hons) Data Science student at National College of Ireland
 📍 Dublin, Ireland
-🔭 Aspiring AI Research Scientist | Passionate about building the future of intelligence
+🔭 Aspiring Data Scientist/AIML Engineer| Passionate about building the future of intelligence
 
 ---
 

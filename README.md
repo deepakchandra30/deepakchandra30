@@ -10,7 +10,7 @@
 
 I'm a third-year Data Science undergrad with a passion for intelligent systems, algorithms, and solving complex real-world problems with data. From building synthetic data generators using GANs and VAEs to working on real-time computer vision systems, I love experimenting with cutting-edge tech. I’m currently deepening my understanding of **neural networks, LLMs, diffusion models, and scalable ML pipelines**.
 
-In the long run, I aspire to become an **AI Research Scientist** at companies like **NVIDIA**,**Google Brain** where I can contribute to the development of innovative models and algorithms that push the boundaries of what machines can do.
+In the long run, I aspire to become an **AI Research Scientist**, where I can contribute to the development of innovative models and algorithms that push the boundaries of what machines can do.
 
 ---
 

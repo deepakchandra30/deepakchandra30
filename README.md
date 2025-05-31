@@ -69,5 +69,5 @@ I'm currently exploring:
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/deepakchandranallamothu)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepakchandraa/)
 - 📧 deepakchandra3012@gmail.com

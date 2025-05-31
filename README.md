@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Deepak Chandra Nallamothu
 
-🎓 BSc (Hons) Data Science student
-📍 Hyderabad, Telangana 🇮🇳 
+🎓 BSc (Hons) Data Science student at National College of Ireland
+📍 Dublin, Ireland
 🔭 Aspiring AI Research Scientist | Passionate about building the future of intelligence
 
 ---

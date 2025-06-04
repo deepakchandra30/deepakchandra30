@@ -62,7 +62,7 @@ I'm currently exploring:
 
 ## 🚀 Projects
 
-- **Synthetic Data Generation Suite** – Custom-built GANs, VAEs, and Diffusion-based models for structured tabular data  
+- **Synthetic Data Generation** –  Generated synthetic tabular data using GANs,VAEs & diffusion based models  
 - **Retail Forecasting Dashboard** – Tableau-powered business insights for store-level demand analysis  
 - **Personal data Analysis** –Analysed my personal data from various apps from my phone
 

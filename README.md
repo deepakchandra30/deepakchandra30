@@ -62,7 +62,7 @@ I'm currently exploring:
 
 ## 🚀 Projects
 
-- **Mushroom Classification Model** - Developed a mushroom edibility prediction system using supervised learning models (Logistic Regression, Random Forest, SVM, XGBoost) on the UCI dataset, achieving 99%+ accuracy, and deployed it as an interactive Flask web app.
+- **[Mushroom Classification Model](https://github.com/deepakchandra30/Mushroom_Classification)** - Developed a mushroom edibility prediction system using supervised learning models (Logistic Regression, Random Forest, SVM, XGBoost) on the UCI dataset, achieving 99%+ accuracy, and deployed it as an interactive Flask web app.
 - **Synthetic Data Generation** –  Generated synthetic tabular data using GANs,VAEs & diffusion based models  
 - **Retail Forecasting Dashboard** – Tableau-powered business insights for store-level demand analysis  
 - **Personal data Analysis** –Analysed my personal data from various apps from my phone

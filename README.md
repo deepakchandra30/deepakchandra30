@@ -29,7 +29,7 @@ In the long run, I aspire to become an **AI Research Scientist**, where I can co
 ### 🤖 Machine Learning & AI  
 - Regression, Classification, Clustering  
 - Decision Trees, Random Forest, XGBoost, KNN  
-- Neural Networks (CNNs, RNNs), GANs, VAEs, Diffusion Models
+- Neural Networks, GANs, VAEs, Diffusion Models
 
 ### 📈 Data Visualization  
 - `Tableau`, `Excel Dashboards`, `Matplotlib`, `Seaborn`

@@ -1,72 +1,73 @@
 # 👋 Hi there, I'm Deepak Chandra Nallamothu
 
-🎓 BSc (Hons) Data Science student at National College of Ireland
+🎓 BSc (Hons) Data Science — First Class Honours (1.1), National College of Ireland
 📍 Dublin, Ireland
-🔭 Aspiring Data Scientist/Machine Learning Engineer| Passionate about building the future of intelligence
+🔭 Graduate Data Scientist | Machine Learning · Generative AI · Data Engineering
 
 ---
 
 ## 💡 About Me
 
-I'm a final-year Data Science undergrad with a passion for intelligent systems, algorithms, and solving complex real-world problems with data. From building synthetic data generators using GANs and VAEs to working on real-time computer vision systems, I love experimenting with cutting-edge tech. I’m currently deepening my understanding of **neural networks, LLMs, diffusion models, and scalable ML pipelines**.
+I'm a Graduate Data Scientist who builds things that ship — predictive models, scalable ETL pipelines, and data-driven reporting solutions. Most recently I spent 10 months as a Data Scientist Intern at Ireland's **Department of Agriculture, Food & the Marine**, where I improved a tuberculosis prediction model's accuracy by 18% while cutting runtime from 8 hours to 3, and built foundational Generative AI synthetic-data models that were adopted department-wide (with recognition from the CIO).
 
-In the long run, I aspire to become an **AI Research Scientist**, where I can contribute to the development of innovative models and algorithms that push the boundaries of what machines can do.
+I also co-founded **EpochDev**, NCI's AI/ML society, where I run hands-on workshops and mentor students through model implementation and debugging.
 
----
-
-## 🧠 Technical Skills
-
-### 🔧 Programming & Tools  
-`Python`, `R`, `SQL`, `Git/GitHub/GitLab`, `Jupyter`, `VS Code`, `Tableau`, `SPSS`
-
-### 📚 Libraries & Frameworks  
-`Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `PySpark`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SDV`
-
-### 📊 Data Science & Analytics  
-- Data Cleaning, Feature Engineering, EDA, Hypothesis Testing  
-- Predictive Modeling, Trend Analysis, Data Augmentation
-
-### 🤖 Machine Learning & AI  
-- Regression, Classification, Clustering  
-- Decision Trees, Random Forest, XGBoost, KNN  
-- Neural Networks, GANs, VAEs, Diffusion Models
-
-### 📈 Data Visualization  
-- `Tableau`, `Excel Dashboards`, `Matplotlib`, `Seaborn`
-
-### 🌟 Soft Skills  
-- Data Storytelling, Business Communication  
-- Critical Thinking, Problem Solving, Team Collaboration
+Long term, I want to work at the intersection of applied ML research and production systems — building models that actually make it into the real world.
 
 ---
 
-## 🧪 Current Interests & Learning Goals
+## 🧰 Technical Skills
 
-I'm currently exploring:
-- ⚙️ Cloud Services (Azure, AWS)  
-- 🧩 LLM Architectures & Transformers  
-- 🛠️ ML Ops & DevOps (Docker, CI/CD, pipelines)  
-- 📦 Data Engineering & Big Data Tools  
-- 🧬 Building real-world AI apps using Deep Learning
+**Programming & Analytics**
+`Python` · `SQL` · `R` · `PySpark` · `Pandas` · `NumPy` · `Scikit-learn` · Statistical Analysis · EDA · Forecasting · Feature Engineering · Model Evaluation
 
----
+**Data Engineering & Databases**
+`ETL/ELT` · `Apache Spark` · `Airflow` · `dbt` · `Oracle` · `Hive` · `PostgreSQL` · `MSSQL` · `Azure SQL` · `MySQL` · `MongoDB` · `DynamoDB` · Data Warehousing
 
-## 📜 Certifications
+**Machine Learning & AI**
+Regression · Classification · Clustering · XGBoost · Random Forest · Neural Networks · Deep Learning · NLP · GANs · VAEs · Diffusion Models · Synthetic Data (SDV)
 
-- 🟢 **Google Data Analytics Professional Certificate**  
-- 🟦 **Microsoft Certified: Azure AI Fundamentals**  
-- 🟣 **Machine Learning Specialization – DeepLearning.AI**  
-- 🟠 **Accenture North America: Data Analytics & Visualization Job Simulation**
+**Visualisation**
+`Power BI` · `Tableau` · `Looker Studio` · `Matplotlib` · `Seaborn` · `Plotly` · `Excel`
+
+**Cloud & DevOps**
+`AWS` · `Azure` · `GCP` · `Docker` · `Git` · `CI/CD` · `FastAPI`
 
 ---
 
 ## 🚀 Projects
 
-- **[Mushroom Classification Model](https://github.com/deepakchandra30/Mushroom_Classification)** - Developed a mushroom edibility prediction system using supervised learning models (Logistic Regression, Random Forest, SVM, XGBoost) on the UCI dataset, achieving 99%+ accuracy, and deployed it as an interactive Flask web app.
-- **[Synthetic Data Generation (Tabular Data)](https://github.com/deepakchandra30/Synthetic_Data-Tabular_Data)** –  Designed and implemented a synthetic tabular data generation pipeline using SDV, GANs, and VAEs, improving data privacy while preserving statistical fidelity for downstream ML tasks.
-- **Retail Forecasting Dashboard** – Tableau-powered business insights for store-level demand analysis  
-- **Personal data Analysis** –Analysed my personal data from various apps from my phone
+**Cold-Chain Delivery Optimiser** — *ETL, Forecasting & Predictive Analytics*
+End-to-end ETL pipeline ingesting time-series logistics data, combining feature engineering, forecasting models, and Monte Carlo simulations with ANOVA testing to improve spoilage prediction by **20%**.
 
+**Soccer Video Analytics System** — *Production Data Pipeline*
+Production-ready pipeline built with FastAPI, React, and AWS processing data from **300+ matches**, with Pydantic validation, **159 automated tests**, and CI/CD workflows for data quality and scalable deployment.
+
+**IoT Real-Time Analytics Platform** — *Cloud Data Engineering*
+Cloud-based AWS pipeline processing real-time sensor data from **10+ IoT devices** at sub-second latency, serving REST APIs, interactive dashboards, and CSV reporting via DynamoDB and Express.js.
+
+**[Synthetic Data Generation (Tabular)](https://github.com/deepakchandra30/Synthetic_Data-Tabular_Data)**
+Synthetic tabular data pipeline using SDV, GANs, and VAEs — improving data privacy while preserving statistical fidelity for downstream ML tasks.
+
+**[Mushroom Classification Model](https://github.com/deepakchandra30/Mushroom_Classification)**
+Edibility prediction system using Logistic Regression, Random Forest, SVM, and XGBoost on the UCI dataset — **99%+ accuracy**, deployed as an interactive Flask web app.
+
+---
+
+## 📜 Certifications
+
+- 🟦 **Microsoft Certified: Azure Data Scientist Associate (DP-100)**
+- 🟦 **Microsoft Certified: Azure AI Fundamentals (AZ-900)**
+- 🟢 **Google Data Analytics Professional Certificate**
+- 🟣 **Machine Learning Specialization — Stanford / DeepLearning.AI**
+
+---
+
+## 🧪 Currently Exploring
+
+⚙️ LLM architectures & transformers · 🛠️ MLOps (Docker, CI/CD, orchestration) · 📦 Modern data stack (Airflow, dbt) · 🧬 Production deep learning systems
+
+---
 
 ## 📫 Connect with Me
 

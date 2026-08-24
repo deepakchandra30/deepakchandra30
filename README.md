@@ -1,75 +1,90 @@
 # 👋 Hi there, I'm Deepak Chandra Nallamothu
 
-🎓 BSc (Hons) Data Science — First Class Honours (1.1), National College of Ireland
+🎓 BSc (Hons) Data Science, First Class Honours, National College of Ireland
 📍 Dublin, Ireland
-🔭 Graduate Data Scientist | Machine Learning · Generative AI · Data Engineering
+🔭 Graduate Software Engineer | Backend · Distributed Systems · Cloud Infrastructure
+🛂 Stamp 1G holder, eligible to work in Ireland without sponsorship until March 2028
 
 ---
 
 ## 💡 About Me
 
-I'm a Graduate Data Scientist who builds things that ship — predictive models, scalable ETL pipelines, and data-driven reporting solutions. Most recently I spent 10 months as a Data Scientist Intern at Ireland's **Department of Agriculture, Food & the Marine**, where I improved a tuberculosis prediction model's accuracy by 18% while cutting runtime from 8 hours to 3, and built foundational Generative AI synthetic-data models that were adopted department-wide (with recognition from the CIO).
+I'm a graduate software engineer who builds production backend systems in Java, Python, and C++. My interest sits in the parts of a system that are hard to get right: distributed data processing, streaming, and the scalability, fault tolerance, consistency, and availability properties that decide whether a service survives real traffic.
 
-I also co-founded **EpochDev**, NCI's AI/ML society, where I run hands-on workshops and mentor students through model implementation and debugging.
+Most recently I spent 10 months as a Software Engineer / Data Scientist Intern at Ireland's **Department of Agriculture, Food & the Marine**, where I shipped production data pipelines other teams depended on, cut a prediction pipeline's runtime from 7-8 hours to 2-3 through root-cause analysis and query optimisation, and lifted its model accuracy from 54% to 72%. The work was recognised by the Senior Manager and CIO for landing ahead of schedule.
 
-Long term, I want to work at the intersection of applied ML research and production systems — building models that actually make it into the real world.
+I also co-founded **EpochDev**, NCI's CS/Engineering society, where I run hands-on technical workshops and have mentored 50+ peers on software development and backend tooling.
+
+I own features end to end and care about the unglamorous half of engineering: tests, monitoring, code review, and the debugging that keeps systems reliable at scale.
 
 ---
 
 ## 🧰 Technical Skills
 
-**Programming & Analytics**
-`Python` · `SQL` · `R` · `PySpark` · `Pandas` · `NumPy` · `Scikit-learn` · Statistical Analysis · EDA · Forecasting · Feature Engineering · Model Evaluation
+**Languages**
+`Java` · `Python` · `C++` · `SQL` · `JavaScript` · `TypeScript`
 
-**Data Engineering & Databases**
-`ETL/ELT` · `Apache Spark` · `Airflow` · `dbt` · `Oracle` · `Hive` · `PostgreSQL` · `MSSQL` · `Azure SQL` · `MySQL` · `MongoDB` · `DynamoDB` · Data Warehousing
+**Distributed Systems & Backend**
+Distributed systems · Backend services · OOP · System design · Scalability · Fault tolerance · Consistency · High availability · Real-time / streaming · Microservices · REST APIs · WebSockets
 
-**Machine Learning & AI**
-Regression · Classification · Clustering · XGBoost · Random Forest · Neural Networks · Deep Learning · NLP · GANs · VAEs · Diffusion Models · Synthetic Data (SDV)
+**Data & Messaging**
+`Apache Kafka` · `PySpark` · ETL pipelines · Data processing · Partitioning · Replication
 
-**Visualisation**
-`Power BI` · `Tableau` · `Looker Studio` · `Matplotlib` · `Seaborn` · `Plotly` · `Excel`
+**Databases**
+`PostgreSQL` · `MSSQL` · `Azure SQL` · `MongoDB` · `DynamoDB` · Query optimisation · Indexing
 
-**Cloud & DevOps**
-`AWS` · `Azure` · `GCP` · `Docker` · `Git` · `CI/CD` · `FastAPI`
+**Cloud & Infrastructure**
+`AWS (Lambda, S3, DynamoDB)` · `Azure` · `GCP` · `Kubernetes` · `Docker` · `CI/CD`
+
+**Practices**
+Object-oriented design · Test-driven development · Automated testing · Monitoring · Debugging · Code review · `Git` · Agile / Scrum
 
 ---
 
 ## 🚀 Projects
 
-**Cold-Chain Delivery Optimiser** — *ETL, Forecasting & Predictive Analytics*
-End-to-end ETL pipeline ingesting time-series logistics data, combining feature engineering, forecasting models, and Monte Carlo simulations with ANOVA testing to improve spoilage prediction by **20%**.
+**IoT Real-Time Distributed Platform**: *Java, Kafka, Kubernetes, AWS*
+Distributed real-time platform processing live sensor data from **10+ devices at sub-second latency**, using Kafka for high-throughput streaming and Kubernetes for container orchestration. Designed for scalability and fault tolerance with DynamoDB storage and Express.js REST APIs, surfaced through an interactive monitoring dashboard.
 
-**Soccer Video Analytics System** — *Production Data Pipeline*
-Production-ready pipeline built with FastAPI, React, and AWS processing data from **300+ matches**, with Pydantic validation, **159 automated tests**, and CI/CD workflows for data quality and scalable deployment.
+**Distributed Systems Project**: *Java, C++, Replication & Consistency*
+Implementation of core distributed-systems primitives: data replication, partitioning, and consistency handling across nodes, with fault-tolerance and recovery logic. Built and tested with a focus on backend system design, concurrency, and high availability under node failure.
 
-**IoT Real-Time Analytics Platform** — *Cloud Data Engineering*
-Cloud-based AWS pipeline processing real-time sensor data from **10+ IoT devices** at sub-second latency, serving REST APIs, interactive dashboards, and CSV reporting via DynamoDB and Express.js.
+**Cold-Chain Delivery Optimiser**: *Python, ETL, Forecasting*
+Data processing and forecasting pipeline with feature engineering, achieving a **20% efficiency improvement** validated through **1,000+ Monte Carlo simulations** and ANOVA testing.
 
-**[Synthetic Data Generation (Tabular)](https://github.com/deepakchandra30/Synthetic_Data-Tabular_Data)**
-Synthetic tabular data pipeline using SDV, GANs, and VAEs — improving data privacy while preserving statistical fidelity for downstream ML tasks.
+**[Synthetic Data Generation (Tabular)](https://github.com/deepakchandra30/Synthetic_Data-Tabular_Data)**: *Python, SDV, GANs, VAEs*
+Synthetic tabular data pipeline improving data privacy while preserving statistical fidelity for downstream tasks.
 
-**[Mushroom Classification Model](https://github.com/deepakchandra30/Mushroom_Classification)**
-Edibility prediction system using Logistic Regression, Random Forest, SVM, and XGBoost on the UCI dataset — **99%+ accuracy**, deployed as an interactive Flask web app.
+**[Mushroom Classification Model](https://github.com/deepakchandra30/Mushroom_Classification)**: *Python, Flask*
+Edibility prediction system using Logistic Regression, Random Forest, SVM, and XGBoost on the UCI dataset, reaching **99%+ accuracy** and deployed as an interactive Flask web app.
+
+---
+
+## 🎓 Education
+
+**BSc (Honours) in Data Science**, First-Class Honours
+National College of Ireland, 2022 to 2026
+
+Relevant modules: Object-Oriented Programming · Data Structures & Algorithms · Advanced Databases · Distributed / Scalable Data Analytics · Software Development · Operating Systems
 
 ---
 
 ## 📜 Certifications
 
 - 🟦 **Microsoft Certified: Azure Data Scientist Associate (DP-100)**
-- 🟦 **Microsoft Certified: Azure AI Fundamentals (AZ-900)**
+- 🟦 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 🟢 **Google Data Analytics Professional Certificate**
-- 🟣 **Machine Learning Specialization — Stanford / DeepLearning.AI**
 
 ---
 
 ## 🧪 Currently Exploring
 
-⚙️ LLM architectures & transformers · 🛠️ MLOps (Docker, CI/CD, orchestration) · 📦 Modern data stack (Airflow, dbt) · 🧬 Production deep learning systems
+⚙️ JVM internals & concurrency · 🛠️ Kubernetes operators and platform tooling · 📦 Event-driven architecture with Kafka · 🧬 Observability and distributed tracing
 
 ---
 
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepakchandraa/)
+- 💻 [GitHub](https://github.com/deepakchandra30)
 - 📧 deepakchandra3012@gmail.com

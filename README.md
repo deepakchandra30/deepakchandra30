@@ -43,13 +43,13 @@ Object-oriented design · Test-driven development · Automated testing · Monito
 
 ## 🚀 Projects
 
-**IoT Real-Time Distributed Platform**: *Java, Kafka, Kubernetes, AWS*
+**[IoT Real-Time Distributed Platform](https://github.com/deepakchandra30/iot-real-time-analytics)**: *Java, Kafka, Kubernetes, AWS*
 Distributed real-time platform processing live sensor data from **10+ devices at sub-second latency**, using Kafka for high-throughput streaming and Kubernetes for container orchestration. Designed for scalability and fault tolerance with DynamoDB storage and Express.js REST APIs, surfaced through an interactive monitoring dashboard.
 
-**Distributed Systems Project**: *Java, C++, Replication & Consistency*
+**[Distributed Systems Project](https://github.com/deepakchandra30/distributed-kv-store)**: *Java, C++, Replication & Consistency*
 Implementation of core distributed-systems primitives: data replication, partitioning, and consistency handling across nodes, with fault-tolerance and recovery logic. Built and tested with a focus on backend system design, concurrency, and high availability under node failure.
 
-**Cold-Chain Delivery Optimiser**: *Python, ETL, Forecasting*
+**[Cold-Chain Delivery Optimiser](https://github.com/deepakchandra30/Cold-chain-delivery-optimiser)**: *Python, ETL, Forecasting*
 Data processing and forecasting pipeline with feature engineering, achieving a **20% efficiency improvement** validated through **1,000+ Monte Carlo simulations** and ANOVA testing.
 
 **[Synthetic Data Generation (Tabular)](https://github.com/deepakchandra30/Synthetic_Data-Tabular_Data)**: *Python, SDV, GANs, VAEs*
